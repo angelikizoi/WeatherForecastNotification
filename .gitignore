@@ -1,0 +1,31 @@
+
+---
+
+### **.gitignore**
+
+```bash
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables file
+.env
+
+# SQLite databases (if applicable)
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDE settings (like PyCharm)
+.idea/
+
+# Logs
+*.log
