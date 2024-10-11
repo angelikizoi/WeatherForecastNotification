@@ -2,6 +2,8 @@
 
 This is a Python script that checks the weather for a specific location and sends an email notification if rain is expected in the next 11 hours. It uses the OpenWeather API to retrieve weather data and the `smtplib` library to send emails.
 
+This project is based on and inspired by the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** course by Angela Yu. The course provides an excellent introduction to Python and was the foundation for this game. You can check out the course on [Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=ST14MT101024#reviews).
+
 ## Features
 
 - **Fetch Weather Data**: Retrieves weather data for a specified latitude and longitude using the OpenWeather API.
